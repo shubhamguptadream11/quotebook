@@ -6,8 +6,7 @@ Remote Change
 
 working with stash
 
-<<<<<<< Updated upstream
 from remote
-=======
+
 from local
->>>>>>> Stashed changes
+
